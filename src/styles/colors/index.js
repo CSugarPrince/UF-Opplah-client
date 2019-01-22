@@ -1,0 +1,15 @@
+export default {
+    black: '#000000',
+    white: '#ffffff',
+    primaryOrange: '#FA4616',
+    primaryBlue: '#0021A5',
+    neutralBrown: '#CFB691',
+    neutralTeal: '#CFDBCB',
+    vanilla: '#FFEFCF',
+    coolGray: '#B1B3B6',
+    mutedBlue: '#6C9AC3',
+    mutedOrange: '#E28F41',
+    mutedTeal: '#A8DCD9',
+    mutedGreen: '#80BE63',
+    mutedGray: '#E0E5CD',
+}

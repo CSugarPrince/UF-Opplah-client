@@ -1,0 +1,110 @@
+{
+  "listings": [
+    {
+      "id": 0,
+      "job_title": "Software Engineer Intern",
+      "company": "Motorola",
+      "posting_date": "unknown",
+      "position_type": "full time",
+      "application_deadline": "unknown",
+      "education": "Bachelor's Degree",
+      "location": [
+        {
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "country": "United States"
+        }
+      ],
+      "basic_qualifications": [
+        "Bachelors or Masters degree in Computer Science, Computer Engineering or related field.",
+        "Solid coding and service development skills, with knowledge/experience in Java.",
+        "Passionate to develop world class software.",
+        "Detail oriented with an understanding of design and development best practices.",
+        "Willing to work in a dynamic, collaborative, process-oriented environment.",
+        "Must be able to obtain background clearance as required by government customer."        
+      ],
+      "responsibilities": [
+        "Design, develop, and maintain application software following established standards, procedures, and specifications.",
+        "Implement approved changes to application software to maintain standards, correct problems, and to modify, develop or enhance functionality.",
+        "Organize and participate in software design and code reviews.",
+        "Analyze software requirements to determine feasibility of design and implementation within time and cost constraints.",
+        "Able to participate in group discussions by expressing thoughts and ideas clearly.",
+        "Maintain an approachable demeanor and a positive can-do attitude.",
+        "Collaborate designs with team members in order to find the solution that best fits the requirements.",
+        "Consult with customers and co-workers in a professional manner."
+      ],
+      "job_description": "We are seeking smart, self-motivated, well-rounded software engineers who excel at solving problems and seeking to improve processes in innovative ways.  To be successful in this role you must value teamwork and communication as well as working closely with other engineers in small, dynamic teams.  As a Software Engineer in this role you must be adept at learning new technologies quickly.  This role will be responsible for the following and additional responsibilities assigned: designing, developing, and maintaining high-quality code for a robust public safety software package written in Java includes knowledge using object oriented coding, UNIX, Linux and Windows platforms."
+    },
+    {
+      "id": 1,
+      "job_title": "Data Engineer",
+      "company": "Disney Streaming Services",
+      "posting_date": "unknown",
+      "position_type": "full time",
+      "application_deadline": "unknown",
+      "education": "Bachelor’s degree in Computer Science or related field or equivalent work experience",
+      "location": [
+        {
+          "city": "New York",
+          "state": "New York",
+          "country": "United States"
+        }
+      ],
+      "basic_qualifications": [
+        "2-3 years of experience developing in object oriented Python.",
+        "Familiar with big-data solutions using technologies like EMR, S3, Spark.",
+        "Loading and querying cloud-hosted databases such as Redshift and Snowflake.",
+        "Building data pipelines using Kinesis, Kafka, Spark, or Flink."
+      ],
+      "responsibilities": [
+        
+      ],
+      "job_description": "Disney Streaming Services is a place for the creative and the bold. Whether New York City, San Francisco, Manchester or Amsterdam, we provide opportunities to elevate your career and transform the industry. Software Engineers at Disney Streaming Services develop premium digital media products for Major League Baseball and our partners. The products we build, such as ESPN+, MLB.TV and NHL.TV are paving the way for the next-generation media and sport technologies, including the upcoming Disney+ offering. Our Engineering team for Disney Streaming Services is headquartered in the Chelsea area of New York City. Other office locations also include the SoMo area of San Francisco, CA and several international locations. At Disney Streaming Services, data is central to measuring all aspects of the business, and critical to its operations and growth. The data engineering team is responsible for collecting, analyzing and distributing data using public cloud and open source technologies and offers transparency into customer behavior and business performance. If you are interested in joining Disney Streaming Services in the pursuit of not only crafting new media products but enjoying the products you build, we are interested in hearing from you."
+    },
+    {
+      "id": 2,
+      "job_title": "Web Developer",
+      "company": "Citrix",
+      "posting_date": "unknown",
+      "application_deadline": "unknown",
+      "education": "Bachelor's Degree",
+      "location": [
+        {
+          "city": "New York",
+          "state": "Utah",
+          "country": "United States"
+        }
+      ],
+      "basic_qualifications": [
+
+      ],
+      "responsibilities": [
+
+      ],
+      "job_description": "job description goes here..."
+    },
+    {
+      "id": 3,
+      "job_title": "Backend Engineer",
+      "company": "Royal Carribbean",
+      "posting_date": "unknown",
+      "application_deadline": "unknown",
+      "education": "Bachelor's Degree",
+      "location": [
+        {
+          "city": "New York",
+          "state": "Utah",
+          "country": "United States"
+        }
+      ],
+      "basic_qualifications": [
+
+      ],
+      "responsibilities": [
+
+      ],
+      "job_description": "job description goes here...",
+      "logoURL": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjKu4jov8PfAhUjwFkKHblQDroQjRx6BAgBEAU&url=http%3A%2F%2Fwww.visioncruise.co.uk%2Fcruise-lines%2Froyal-caribbean-international%2F&psig=AOvVaw0zSQ4hVk8fQwc_cOUOvx6O&ust=1546119957059208"
+    }    
+  ]
+}
